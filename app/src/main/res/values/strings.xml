@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FindYourWay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="save_location">Save Location</string>
+    <string name="gps_location">GPS Location</string>
+    <string name="brief_description">Brief Description of Saved Location</string>
+    <string name="SaveLocationTitle">Save Location</string>
+    <string name="enter_location_name">Enter Location Name</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313143287366",
+    "project_id": "findmyway-e1434",
+    "storage_bucket": "findmyway-e1434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313143287366:android:acaaa2562f11ecce3df447",
+        "android_client_info": {
+          "package_name": "edu.weber.cs.w01378454.findyourway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313143287366-jjq7f22vnqeikc6g8qsfgrvois0mrgo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLwYgMpUm5cT6ybz3yne_ou7fQklyioOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313143287366-jjq7f22vnqeikc6g8qsfgrvois0mrgo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
